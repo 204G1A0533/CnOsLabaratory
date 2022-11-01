@@ -1,7 +1,7 @@
-/*Roll No: 204G1A0501
-   Title of the Experiment: CPU Scheduling Using FCFS Algorithm
-   Date of Creation: 29-08-2022
-   Date of Execution: 29-08-2022
+/*Roll No: 204G1A0533
+Title of the Experiment:fifo page replacement algorithm
+   Date of Creation: 01-11-2022
+   Date of Execution: 01-11-2022
 */
 
 
